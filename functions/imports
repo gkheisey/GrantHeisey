@@ -1,3 +1,7 @@
 import math 
 - sqrt()
   - square root
+
+import doctest
+- doctest.testmod()
+  - tests all the formulas in the document 
