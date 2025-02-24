@@ -1,0 +1,25 @@
+53 // 24
+# ignores decimals
+
+53 % 24
+# finds remainder 
+
+
+score = 50
+score += 20
+score
+# += will add and use other value
+
+abs()
+# finds absolute value
+
+pow(x,y)
+# x to the power of y
+
+len('Albert Einstein') 
+10
+yes = 'hello'
+len(yes)
+5 
+# counts the characters 
+
