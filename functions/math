@@ -1,8 +1,9 @@
 53 // 24
-# ignores decimals
+>>> divides and ignores decimals
+
 
 53 % 24
-# finds remainder 
+>>> finds remainder 
 
 
 score = 50
@@ -10,16 +11,66 @@ score += 20
 score
 # += will add and use other value
 
+
 abs()
-# finds absolute value
+>>> finds absolute value
+
 
 pow(x,y)
-# x to the power of y
+>>> x to the power of y
+
 
 len('Albert Einstein') 
 10
 yes = 'hello'
 len(yes)
 5 
-# counts the characters 
+>>> counts the characters 
+
+
+24 == 25
+>>> will return false if they are not equal
+
+
+24 != 24
+>>> will return false if they are equal
+
+
+ph = float(input('Enter the pH level: '))
+if ph < 7.0:
+    print(ph, "is acidic.")
+elif ph > 7.0:
+    print(ph, "is basic.")
+>>> if value is less than 7 will return is acidic, if over will return is basic
+
+
+whales = [5, 4, 7, 3, 2, 3, 2, 6, 4, 2, 1, 7, 1, 3]
+whales[2]
+>>> will return 7
+
+
+if x in y:
+>>> if x is in y then we can do some action
+
+
+del L[-1]
+>>> will delete part of the list
+
+
+range(10)
+>>> will make a range of 10 numbers: 0-9
+
+
+for num in range(10):
+    print(num)
+>>> prints out all those numbers
+
+
+list(range(10))
+>>> will list out the numbers in the range
+
+
+list(range(1, 10))
+>>> first number will be the x and last will be the y
+
 
