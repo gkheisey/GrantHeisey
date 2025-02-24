@@ -74,3 +74,12 @@ list(range(1, 10))
 >>> first number will be the x and last will be the y
 
 
+
+math.sqrt()
+>>> gets the square root
+
+
+
+
+
+
