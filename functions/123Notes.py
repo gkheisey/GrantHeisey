@@ -3,17 +3,6 @@
 ##################################################
 #
 # QMB 3311: Python for Business Analytics
-#
-# Name: 
-#
-# Date:
-# 
-##################################################
-#
-# Sample Script for Midterm Examination: 
-# Suggested Function Definitions
-#
-##################################################
 """
 
 
