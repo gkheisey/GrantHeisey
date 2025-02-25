@@ -80,6 +80,12 @@ def CESutility(good_x: float, good_y: float, parameter: float) -> float:
     >>>CESutility(50,25,10)
     50.005
     """
+        if good_x < 0 :
+            return "Error variable cannot be negative"
+        if good_y < 0 :
+            return "Error variable cannot be negative"
+        if parameter < 0 :
+            return "Error variable cannot be negative"
     # needs 3 examples (-1)
     # needs either a precondition or checks to make sure that variables are not negative (-1)
     return ((good_x ** parameter) + (good_y ** parameter)) ** (1 / parameter)
