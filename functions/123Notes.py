@@ -10,13 +10,6 @@
 """
 ##################################################
 ##################################################
-# Note: there should be no printing or calculations
-# in this script, aside from function definitions. 
-# Save those for another script that would
-# execute the scripts (to run the doctests)
-# and imports the modules to test the functions.
-##################################################
-##################################################
 """
 
 
