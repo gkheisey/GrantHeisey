@@ -3,15 +3,7 @@
 ##################################################
 #
 # QMB 3311: Python for Business Analytics
-#
-# Name: 
-#
-# Date:
-# 
-##################################################
-#
-# Sample Script for Assignment 5: 
-# Suggested Function Definitions
+
 #
 ##################################################
 """
